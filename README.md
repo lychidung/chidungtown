@@ -23,12 +23,13 @@ In my website, in addition to adding products or updating accounts normally like
 
 Framework i used in this project
 
-* [![Vue][Vue.js]][Vue-url]
-* [![Laravel][Laravel.com]][Laravel-url]
+[![Vue.js](https://img.shields.io/badge/vue.js-3.0-green)](https://vuejs.org/)
+[![Laravel](https://img.shields.io/badge/laravel-10.0-red)](https://laravel.com/)
+[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-3.0-blue)](https://tailwindcss.com/)
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 Visit the project website: <a href="chidungtown.vn">chidungtown.vn</a>
-### Prerequisites
 
